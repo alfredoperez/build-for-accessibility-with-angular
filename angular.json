@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "build-for-accessibility-with-angular"
+    }
+  },
+  "defaultProject": "build-for-accessibility-with-angular",
+  "cli": {
+    "analytics": false
+  }
 }
